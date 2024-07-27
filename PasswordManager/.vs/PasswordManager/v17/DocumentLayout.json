@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\C#\\MyProjects\\PasswordManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{997D9D41-726E-49C0-A535-61F285B80A9A}|PasswordManager\\PasswordManager.csproj|e:\\courses\\c#\\myprojects\\passwordmanager\\passwordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997D9D41-726E-49C0-A535-61F285B80A9A}|PasswordManager\\PasswordManager.csproj|solutionrelative:passwordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\C#\\MyProjects\\PasswordManager\\PasswordManager\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordManager\\Program.cs",
+              "ToolTip": "E:\\Courses\\C#\\MyProjects\\PasswordManager\\PasswordManager\\Program.cs",
+              "RelativeToolTip": "PasswordManager\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:53:23.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

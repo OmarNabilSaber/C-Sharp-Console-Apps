@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\omarn\\source\\repos\\C-Sharp-Console-Apps\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
       "projectName": "SimpleCalculator",
-      "projectPath": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectPath": "C:\\Users\\omarn\\source\\repos\\C-Sharp-Console-Apps\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
       "packagesPath": "C:\\Users\\omarn\\.nuget\\packages\\",
-      "outputPath": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\obj\\",
+      "outputPath": "C:\\Users\\omarn\\source\\repos\\C-Sharp-Console-Apps\\SimpleCalculator\\SimpleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omarn\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,7 +8,7 @@ namespace SimpleCalculator
 {
     internal static class ExpressionParser
     {
-        private const string MathSymbls = "+*?%^";
+        private const string MathSymbls = "+*/%^";
         public static MathExpression Parse(string input)
         {
             var expr = new MathExpression();
@@ -33,8 +33,18 @@ namespace SimpleCalculator
                         expr.LeftSideOperand = double.Parse(token.ToString());
                         leftSideInitialized = true;
                     }
-                    expr.Operation = ParseMathOperation(currentChar.ToString());
-                    token.Clear();
+                    if ( expr.Operation == MathOperation.None)
+                    {
+                        expr.Operation = ParseMathOperation(currentChar.ToString());
+                        token.Clear();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Cannot Work with more than one operator");
+                        expr.Operation = MathOperation.None;
+                        break;
+                    }
+
                 }
                 else if ((currentChar == '-') && (i > 0))
                 {

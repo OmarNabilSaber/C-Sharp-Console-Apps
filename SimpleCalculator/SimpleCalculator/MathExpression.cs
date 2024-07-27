@@ -10,13 +10,14 @@ namespace SimpleCalculator
     {
         public double LeftSideOperand { get; set; }
         public double RightSideOperand { get; set; }
-        public MathOperation Operation { get; set; }
+        public MathOperation Operation { get; set; } = MathOperation.None;
 
         public override string ToString()
         {
             double result = Eval(out string OperationStr);
-            return $"Left Side = {LeftSideOperand}    Operation = {Operation}    Right Side = {RightSideOperand} \n " +
+            var message = result == 0.0 ? "" : $"Left Side = {LeftSideOperand}    Operation = {Operation}    Right Side = {RightSideOperand} \n " +
                 $"{LeftSideOperand} {OperationStr} {RightSideOperand} = {result} ";
+            return message;
         }
         public double Eval(out string OperationStr)
         {

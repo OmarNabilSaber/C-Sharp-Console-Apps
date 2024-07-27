@@ -21,6 +21,8 @@ namespace PasswordManager
             PrintWelcome();
             if (!File.Exists(AdminInfoFilePath))
             {
+                if (File.Exists(passwoedsFilePath))
+                    File.Delete(passwoedsFilePath);
                 string userName, password;
                 while (true)
                 {

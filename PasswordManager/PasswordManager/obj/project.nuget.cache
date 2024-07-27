@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7l9xvRVjo7w=",
+  "dgSpecHash": "RAi0WMJchek=",
   "success": true,
-  "projectFilePath": "E:\\Courses\\C#\\MyProjects\\PasswordManager\\PasswordManager\\PasswordManager.csproj",
+  "projectFilePath": "C:\\Users\\omarn\\source\\repos\\C-Sharp-Console-Apps\\PasswordManager\\PasswordManager\\PasswordManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omarn\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
   ],

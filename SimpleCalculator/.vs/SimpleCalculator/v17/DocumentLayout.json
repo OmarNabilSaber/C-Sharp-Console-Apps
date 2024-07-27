@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Courses\\C#\\MyProjects\\ConsoleAppTest6\\",
+  "WorkspaceRootPath": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6B2AA57-4002-4A7A-B3C9-059904ACD16D}|ConsoleAppTest6\\ConsoleAppTest6.csproj|e:\\courses\\c#\\myprojects\\consoleapptest6\\consoleapptest6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6B2AA57-4002-4A7A-B3C9-059904ACD16D}|ConsoleAppTest6\\ConsoleAppTest6.csproj|solutionrelative:consoleapptest6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{471E9337-5269-409D-87A5-760199413038}|SimpleCalculator\\SimpleCalculator.csproj|e:\\courses\\c#\\myprojects\\simplecalculator\\simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471E9337-5269-409D-87A5-760199413038}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6B2AA57-4002-4A7A-B3C9-059904ACD16D}|ConsoleAppTest6\\ConsoleAppTest6.csproj|e:\\courses\\c#\\myprojects\\consoleapptest6\\consoleapptest6\\mathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6B2AA57-4002-4A7A-B3C9-059904ACD16D}|ConsoleAppTest6\\ConsoleAppTest6.csproj|solutionrelative:consoleapptest6\\mathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{471E9337-5269-409D-87A5-760199413038}|SimpleCalculator\\SimpleCalculator.csproj|e:\\courses\\c#\\myprojects\\simplecalculator\\simplecalculator\\mathoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471E9337-5269-409D-87A5-760199413038}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\mathoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471E9337-5269-409D-87A5-760199413038}|SimpleCalculator\\SimpleCalculator.csproj|e:\\courses\\c#\\myprojects\\simplecalculator\\simplecalculator\\mathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471E9337-5269-409D-87A5-760199413038}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\mathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471E9337-5269-409D-87A5-760199413038}|SimpleCalculator\\SimpleCalculator.csproj|e:\\courses\\c#\\myprojects\\simplecalculator\\simplecalculator\\expressionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471E9337-5269-409D-87A5-760199413038}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\expressionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MathExpression.cs",
-              "DocumentMoniker": "E:\\Courses\\C#\\MyProjects\\ConsoleAppTest6\\ConsoleAppTest6\\MathExpression.cs",
-              "RelativeDocumentMoniker": "ConsoleAppTest6\\MathExpression.cs",
-              "ToolTip": "E:\\Courses\\C#\\MyProjects\\ConsoleAppTest6\\ConsoleAppTest6\\MathExpression.cs",
-              "RelativeToolTip": "ConsoleAppTest6\\MathExpression.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBQAAAAzAAAA",
+              "DocumentMoniker": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\MathExpression.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\MathExpression.cs",
+              "ToolTip": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\MathExpression.cs",
+              "RelativeToolTip": "SimpleCalculator\\MathExpression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T10:52:04.699Z",
+              "WhenOpened": "2024-07-27T11:51:26.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpressionParser.cs",
+              "DocumentMoniker": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\ExpressionParser.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\ExpressionParser.cs",
+              "ToolTip": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\ExpressionParser.cs",
+              "RelativeToolTip": "SimpleCalculator\\ExpressionParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:51:16.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperation.cs",
+              "DocumentMoniker": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\MathOperation.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\MathOperation.cs",
+              "ToolTip": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\MathOperation.cs",
+              "RelativeToolTip": "SimpleCalculator\\MathOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:51:03.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Courses\\C#\\MyProjects\\ConsoleAppTest6\\ConsoleAppTest6\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleAppTest6\\Program.cs",
-              "ToolTip": "E:\\Courses\\C#\\MyProjects\\ConsoleAppTest6\\ConsoleAppTest6\\Program.cs",
-              "RelativeToolTip": "ConsoleAppTest6\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "DocumentMoniker": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\Program.cs",
+              "ToolTip": "E:\\Courses\\C#\\MyProjects\\SimpleCalculator\\SimpleCalculator\\Program.cs",
+              "RelativeToolTip": "SimpleCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T10:46:46.294Z",
+              "WhenOpened": "2024-07-27T11:50:29.493Z",
               "EditorCaption": ""
             }
           ]
